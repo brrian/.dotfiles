@@ -1,0 +1,19 @@
+[
+	// Advanced New Files
+	{ "keys": ["super+alt+n"], "command": "advanced_new_file_new" },
+
+	// Origami
+	{ "keys": [":", "v", "p", "s"], "command": "create_pane", "args": {"direction": "right"} },
+	{ "keys": [":", "h", "p", "s"], "command": "create_pane", "args": {"direction": "down"} },
+	{ "keys": [":", "b", "d"], "command": "destroy_pane", "args": {"direction": "self"} },
+
+	{ "keys": ["super+k", "k"], "command": "travel_to_pane", "args": {"direction": "up"} },
+	{ "keys": ["super+k", "l"], "command": "travel_to_pane", "args": {"direction": "right"} },
+	{ "keys": ["super+k", "j"], "command": "travel_to_pane", "args": {"direction": "down"} },
+	{ "keys": ["super+k", "h"], "command": "travel_to_pane", "args": {"direction": "left"} },
+
+	{ "keys": ["super+k", "shift+k"], "command": "carry_file_to_pane", "args": {"direction": "up"} },
+	{ "keys": ["super+k", "shift+l"], "command": "carry_file_to_pane", "args": {"direction": "right"} },
+	{ "keys": ["super+k", "shift+j"], "command": "carry_file_to_pane", "args": {"direction": "down"} },
+	{ "keys": ["super+k", "shift+h"], "command": "carry_file_to_pane", "args": {"direction": "left"} }
+]

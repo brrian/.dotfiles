@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AceJump",
+		"AdvancedNewFile",
+		"Babel",
+		"Better CoffeeScript",
+		"Colorsublime",
+		"DocBlockr",
+		"EasyDiff",
+		"EditorConfig",
+		"Emmet",
+		"ES6-Toolkit",
+		"GhostText",
+		"GitGutter",
+		"Handlebars",
+		"HTMLBeautify",
+		"Jade",
+		"Jade Snippets",
+		"JSX",
+		"Laravel Blade Highlighter",
+		"Minify",
+		"Open Finder",
+		"Origami",
+		"Package Control",
+		"PHP Companion",
+		"PlainTasks",
+		"React ES6 Snippets",
+		"React Templates",
+		"SCSS Snippets",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeREPL",
+		"Sublimerge Pro",
+		"SublimeServer",
+		"Syntax Highlighting for Sass",
+		"Terminal",
+		"Text Pastry",
+		"Theme - Afterglow"
+	]
+}

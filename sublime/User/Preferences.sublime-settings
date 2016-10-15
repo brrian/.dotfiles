@@ -1,0 +1,33 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Colorsublime - Themes/AgolaDark.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_face": "Fira Code",
+	"font_size": 14,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_numbers": false,
+	"line_padding_bottom": 7,
+	"line_padding_top": 7,
+	"margin": 0,
+	"overlay_scroll_bars": "enabled",
+	"show_tab_close_buttons": false,
+	"tabs_small": true,
+	"theme": "Afterglow.sublime-theme",
+	"use_simple_full_screen": true
+}

@@ -1,0 +1,29 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "./FindingsSlider.js",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "./FindingsSlider.js"
+			},
+			"key": "1d5a9b226b32e397a93c6f30dc47d2d2",
+			"label": "./FindingsSlider.js"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "./FindingsSlider.js",
+			"threshold": 3
+		},
+		"command": "text_pastry_insert_text",
+		"text": "./FindingsSlider.js"
+	}
+}
